@@ -8,8 +8,9 @@
 
 
 <p align="center">
-  一键生成沉浸式多智能体互动课堂。
+  数字资产交易系统
 </p>
+
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue.svg?style=flat-square" alt="License: AGPL-3.0"/></a>
