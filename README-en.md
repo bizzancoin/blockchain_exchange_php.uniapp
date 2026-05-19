@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  一键生成沉浸式多智能体互动课堂。
+  Digital Asset Trading System
 </p>
 
 <p align="center">
