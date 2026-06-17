@@ -1,5 +1,17 @@
 # 一套面向多端发布的数字资产交易与金融业务前后端工程
 
+# 另一套持续更新的 Java 版本
+
+![image-20260617162219127](images/image-20260617162219127.png)
+
+这套长期维护的版本，功能、稳定性、拓展更出色 。
+
+- 介绍仓库：[douyaolai/Blockchain-Exchange-Changelog](https://github.com/douyaolai/Blockchain-Exchange-Changelog)
+
+
+
+------
+
 
 
 <p align="center">
@@ -21,8 +33,6 @@
   <a href="./README-en.md">English</a> | <a href="./README.md">简体中文</a>
   <br/>
 </p>
-
-
 
 
 ### 2026-6-3
